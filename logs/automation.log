@@ -1,0 +1,266 @@
+2025-08-19 00:07:01.684 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 00:07:02.378 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 00:07:02.817 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 00:07:02.825 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 00:07:04.454 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 00:07:04.510 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 00:07:07.361 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 00:08:52.972 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 00:08:53.564 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 00:08:54.001 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 00:08:54.007 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 00:08:55.758 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 00:08:55.853 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 00:08:58.342 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 00:28:31.260 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 00:28:31.764 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 00:28:32.341 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 00:28:32.353 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 00:28:33.961 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 00:28:34.063 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 00:28:36.573 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 10:55:33.670 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 10:55:34.413 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 10:55:35.138 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 10:55:35.160 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 10:55:39.191 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 10:55:39.597 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 10:55:43.605 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 10:56:22.864 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 10:56:23.029 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 10:56:23.457 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 10:56:23.464 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 10:56:25.650 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 10:56:25.805 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 10:56:28.089 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 10:58:28.909 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 10:58:29.453 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 10:58:30.420 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 10:58:30.434 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 10:58:32.758 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 10:58:32.824 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 10:58:38.345 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 11:02:39.980 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 11:02:40.381 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 11:02:40.936 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 11:02:40.940 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 11:02:43.046 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 11:02:43.123 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 11:02:45.050 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 11:02:57.864 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 11:02:58.466 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 11:02:59.294 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 11:02:59.296 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 11:03:01.419 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 11:03:01.484 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 11:03:09.753 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 11:34:50.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 11:34:50.478 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 11:34:51.542 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 11:34:51.548 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 11:34:54.144 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 11:34:54.280 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 11:34:57.695 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:03:59.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:03:59.647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:03:59.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:03:59.657 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:00.386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:00.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:00.392 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:00.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:00.474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:00.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:00.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:00.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:00.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:00.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:00.604 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:00.605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:00.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:00.689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:00.691 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:00.692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:00.740 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:00.741 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:00.745 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:00.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:00.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:00.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:00.797 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:00.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:00.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:00.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:00.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:00.906 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:01.028 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:01.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:01.032 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:01.034 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:01.165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:01.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:01.168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:01.175 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:01.314 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:01.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:01.332 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:01.342 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:01.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:01.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:01.422 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:01.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:01.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:01.507 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:01.508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:01.509 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:04:01.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-19 12:04:01.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-19 12:04:01.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2025-08-19 12:04:01.569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-19 12:11:54.332 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:11:54.740 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:11:55.450 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:11:55.478 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:11:57.373 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:11:57.481 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:12:00.844 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:12:21.758 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:12:21.933 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:12:22.525 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:12:22.526 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:12:23.899 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:12:23.961 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:12:32.830 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:15:45.445 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:15:46.036 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:15:46.570 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:15:46.574 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:15:48.631 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:15:48.707 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:15:50.627 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:17:04.335 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:17:04.660 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:17:05.547 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:17:05.557 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:17:07.428 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:17:07.572 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:17:10.567 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:33:42.597 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:33:43.141 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:33:44.322 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:33:44.327 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:33:46.354 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:33:46.426 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:33:48.345 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:39:11.825 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:39:12.190 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:39:12.900 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:39:12.907 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:39:15.169 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:39:15.284 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:39:18.821 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:39:34.538 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:39:34.764 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:39:35.450 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:39:35.452 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:39:36.773 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:39:36.822 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:39:45.827 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:45:31.168 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:45:31.719 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:45:32.274 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:45:32.281 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:45:34.411 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:45:34.493 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:45:36.441 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:45:50.870 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:45:51.134 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:45:51.808 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:45:51.809 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:45:53.643 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:45:53.706 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:46:01.868 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:57:14.872 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:57:15.149 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:57:15.714 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:57:15.721 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:57:17.691 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:57:17.776 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:57:19.681 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:57:33.372 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:57:33.633 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:57:34.362 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:57:34.363 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:57:36.098 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:57:36.205 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:57:44.812 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:58:52.764 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:58:53.265 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:58:53.862 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:58:53.867 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:58:55.907 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:58:55.990 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:58:59.539 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 12:59:11.409 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 12:59:11.549 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 12:59:11.926 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 12:59:11.927 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 12:59:13.275 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 12:59:13.307 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 12:59:22.294 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:00:37.773 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:00:38.058 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:00:38.553 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:00:38.559 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:00:40.255 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:00:40.340 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:00:42.443 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:00:54.059 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:00:54.410 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:00:55.774 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:00:55.776 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:01:01.509 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:01:01.566 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:01:07.396 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:36:03.064 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:36:03.504 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:36:04.078 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:36:04.083 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:36:06.728 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:36:06.841 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:36:08.917 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:36:23.573 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:36:23.818 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:36:24.693 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:36:24.696 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:36:26.664 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:36:26.719 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:36:35.493 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:37:57.724 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:37:58.406 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:37:58.967 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:37:58.971 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:38:02.193 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:38:02.277 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:38:04.718 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:38:17.334 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:38:17.476 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:38:17.826 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:38:17.828 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:38:19.640 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:38:19.695 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:38:28.592 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:49:42.954 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:49:43.628 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:49:44.939 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:49:44.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:49:47.086 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:49:47.188 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:49:50.882 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case
+2025-08-19 13:50:02.726 [main] INFO  testCases.TC001_AccountRegistrationTest - ------------starting tc001_Account registration test-------
+2025-08-19 13:50:02.865 [main] INFO  testCases.TC001_AccountRegistrationTest - -----click myaccount link
+2025-08-19 13:50:06.087 [main] INFO  testCases.TC001_AccountRegistrationTest - ----clicked on register link
+2025-08-19 13:50:06.089 [main] INFO  testCases.TC001_AccountRegistrationTest - ---- providing customer details
+2025-08-19 13:50:09.439 [main] INFO  testCases.TC001_AccountRegistrationTest - ---validating expected massage---
+2025-08-19 13:50:09.473 [main] INFO  testCases.TC001_AccountRegistrationTest - -------------finish the test case registration-----------
+2025-08-19 13:50:20.497 [main] INFO  testCases.TC_002_LogInTest - ---starting the login test case

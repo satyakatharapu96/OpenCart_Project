@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO" monitorInterval="30">
+  
+  <Properties>
+  <property name="basedpath">./logs</property>
+  </Properties>
+  
+  
+  <Appenders>
+    <!-- Console Appender -->
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+
+    <!-- File Appender -->
+    <RollingFile name="File" fileName="${basedpath}/automation.log"
+                 filePattern="${basedpath}/automation-%d{yyyy-MM-dd}-%i.log.gz">
+      <PatternLayout>
+        <Pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</Pattern>
+      </PatternLayout>
+      <Policies>
+        <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+        
+      </Policies>
+      <DefaultRolloverStrategy max="7"/>
+    </RollingFile>
+  </Appenders>
+
+  <Loggers>
+    <!-- Set root logger level to INFO -->
+    <Root level="Debug">
+     <!-- --> <AppenderRef ref="File"/>
+      <AppenderRef ref="Console"/>
+    </Root>
+
+  </Loggers>
+
+</Configuration>
